@@ -1,4 +1,4 @@
-# about-me
+
 <h1 align="center">Hi 👋, I'm İlkim Sevinç</h1>
 <h3 align="center">I am a computer science engineering student at Işık University. I am interested in Cybersecurity, Java Programming, Data Science, Database Management, AI</h3>
 
