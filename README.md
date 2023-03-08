@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm İlkim Sevinç</h1>
-<h3 align="center">I am a computer science engineering student at Işık University. I am eager to work in the fields of data science, artificial intelligence and database management in the future. AI</h3>
+<h1 align="center">Hi 🌸, I'm İlkim Sevinç</h1>
+<h3 align="center">I am a computer science engineering student at Işık University. I am eager to work in the fields of data science, artificial intelligence and database management in the future.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ilkimsevinc&label=Profile%20views&color=0e75b6&style=flat" alt="ilkimsevinc" /> </p>
 
