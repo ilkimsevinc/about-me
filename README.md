@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ilkimsevinc](https://github.com/ilkimsevinc)
 
-- 🌼 All of my certificates are available at [(https://www.linkedin.com/in/ilkimsevinc/)]((https://www.linkedin.com/in/ilkimsevinc/))
+- 🌼 All of my certificates are available at [https://www.linkedin.com/in/ilkimsevinc/](https://www.linkedin.com/in/ilkimsevinc/)
 
 - 📝 I will start writing articles on [[https://medium.com/@ilkimsevinc]](https://medium.com/@ilkimsevinc)
 
