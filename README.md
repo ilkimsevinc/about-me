@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm İlkim Sevinç</h1>
-<h3 align="center">I am a computer science engineering student at Işık University. I am interested in Cybersecurity, Java Programming, Data Science, Database Management, AI</h3>
+<h3 align="center">I am a computer science engineering student at Işık University. I am eager to work in the fields of data science, artificial intelligence and database management in the future. AI</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ilkimsevinc&label=Profile%20views&color=0e75b6&style=flat" alt="ilkimsevinc" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ilkimsevinc" alt="ilkimsevinc" /></a> </p>
 
-- 🌱 I’m currently learning **Microsoft Power Platform**
+- 🌱 I’m currently learning **Microsoft Power Platform and SQL Server**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ilkimsevinc](https://github.com/ilkimsevinc)
 
